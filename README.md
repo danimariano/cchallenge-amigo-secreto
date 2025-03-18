@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Adicionar Nome: O nome digitado é adicionado à lista de participantes ao clicar no botão "Adicionar". Este passo deve ser repetidos até que todos os nomes sejam adicionados.</p>
+<p align="left">Adicionar Nome: O nome digitado é adicionado à lista de participantes ao clicar no botão "Adicionar". Este passo deve ser repetido até que todos os nomes sejam adicionados.</p>
 
 ###
 
