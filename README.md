@@ -80,7 +80,7 @@
 
 ###
 
-<p align="left">hospedado em: https://cchallenge-amigo-secreto-jucrw1a6o-daniela-marianos-projects.vercel.app/</p>
+<p align="left">hospedado em: https://cchallenge-amigo-secreto-daniela-marianos-projects.vercel.app/</p>
 
 ###
 
