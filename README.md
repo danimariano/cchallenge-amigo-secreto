@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="/assets/1.inserir-nome.png"/>
+  <img height="200" src="/1.inserir-nome.png"/>
 </div>
 
 ###
